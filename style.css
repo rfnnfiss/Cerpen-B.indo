@@ -1,0 +1,43 @@
+* {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+html {
+    scroll-behavior: smooth;
+  }
+
+header {
+    display: inline;
+  }
+
+  .Judul {
+    font-size: 20px;
+    background-color: gray;
+    text-align: center;
+    padding: 0px;
+    color: white;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: "Quicksand", sans-serif;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 grey;
+    border-radius: 5px;
+    padding: 20px;
+    /* margin-top: 20px; */
+  }
+
+  footer {
+    margin-top: 20px;
+    padding: 20px;
+    color: white;
+    background: gray;
+    text-align: center;
+    font-weight: bold;
+    clear: both;
+  }
